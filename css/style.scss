@@ -1,3 +1,5 @@
+@import url(normalize.css);
+@import url(fonts.css);
 $bg: #1C182E;
 $red-circle: #FC3856;
 $purple-circle: #9143F3;
@@ -69,4 +71,15 @@ div {
     margin-left: 30px;
     margin-top: 40px;
     border-radius: 20px;
+
+    h2 {
+        font-family: 'Qanelas Extra Bold';
+    }
+
+    span {
+        font-family: 'Qanelas Regular';
+    }
+
+
+
 }

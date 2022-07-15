@@ -1,3 +1,5 @@
+@import url(normalize.css);
+@import url(fonts.css);
 div {
   box-sizing: border-box;
 }
@@ -63,4 +65,10 @@ div {
   margin-left: 30px;
   margin-top: 40px;
   border-radius: 20px;
+}
+.product_box-items h2 {
+  font-family: "Qanelas Extra Bold";
+}
+.product_box-items span {
+  font-family: "Qanelas Regular";
 }/*# sourceMappingURL=style.css.map */
